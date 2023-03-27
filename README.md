@@ -1,2 +1,3 @@
 # JS_Gallery
-Created with CodeSandbox
+
+Photo gallery using java script 
